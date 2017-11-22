@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <LeandroRosa_Redecard>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Payment />
+            </depends>
+        </LeandroRosa_Redecard>
+    </modules>
+</config>
